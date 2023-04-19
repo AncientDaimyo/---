@@ -1,0 +1,64 @@
+[Tue Apr 18 13:41:08.540979 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00455: Apache/2.4.57 (Win64) PHP/8.2.5 configured -- resuming normal operations
+[Tue Apr 18 13:41:08.556603 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00456: Apache Lounge VS17 Server built: Apr  3 2023 11:28:13
+[Tue Apr 18 13:41:08.556603 2023] [core:notice] [pid 556768:tid 396] AH00094: Command line: 'H:\\Apache24\\bin\\httpd.exe -d H:/Apache24'
+[Tue Apr 18 13:41:08.556603 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00418: Parent: Created child process 555068
+[Tue Apr 18 13:41:09.315545 2023] [mpm_winnt:notice] [pid 555068:tid 404] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 18 15:09:49.775941 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Apr 18 15:09:52.600278 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00455: Apache/2.4.57 (Win64) PHP/8.2.5 configured -- resuming normal operations
+[Tue Apr 18 15:09:52.600278 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00456: Apache Lounge VS17 Server built: Apr  3 2023 11:28:13
+[Tue Apr 18 15:09:52.600278 2023] [core:notice] [pid 556768:tid 396] AH00094: Command line: 'H:\\Apache24\\bin\\httpd.exe -d H:/Apache24'
+[Tue Apr 18 15:09:53.214391 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00418: Parent: Created child process 568116
+[Tue Apr 18 15:09:53.519092 2023] [mpm_winnt:notice] [pid 555068:tid 404] AH00364: Child: All worker threads have exited.
+[Tue Apr 18 15:09:54.430319 2023] [mpm_winnt:notice] [pid 568116:tid 396] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 18 15:13:31.834662 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Apr 18 15:13:32.447926 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00455: Apache/2.4.57 (Win64) PHP/8.2.5 configured -- resuming normal operations
+[Tue Apr 18 15:13:32.447926 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00456: Apache Lounge VS17 Server built: Apr  3 2023 11:28:13
+[Tue Apr 18 15:13:32.447926 2023] [core:notice] [pid 556768:tid 396] AH00094: Command line: 'H:\\Apache24\\bin\\httpd.exe -d H:/Apache24'
+[Tue Apr 18 15:13:32.458010 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00418: Parent: Created child process 567436
+[Tue Apr 18 15:13:33.282119 2023] [mpm_winnt:notice] [pid 567436:tid 408] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 18 15:13:33.932551 2023] [mpm_winnt:notice] [pid 568116:tid 396] AH00364: Child: All worker threads have exited.
+[Tue Apr 18 15:30:42.944646 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Apr 18 15:30:43.044884 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00455: Apache/2.4.57 (Win64) PHP/8.2.5 configured -- resuming normal operations
+[Tue Apr 18 15:30:43.044884 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00456: Apache Lounge VS17 Server built: Apr  3 2023 11:28:13
+[Tue Apr 18 15:30:43.044884 2023] [core:notice] [pid 556768:tid 396] AH00094: Command line: 'H:\\Apache24\\bin\\httpd.exe -d H:/Apache24'
+[Tue Apr 18 15:30:43.067020 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00418: Parent: Created child process 567568
+[Tue Apr 18 15:30:43.967703 2023] [mpm_winnt:notice] [pid 567568:tid 396] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 18 15:30:44.986328 2023] [mpm_winnt:notice] [pid 567436:tid 408] AH00364: Child: All worker threads have exited.
+[Tue Apr 18 15:39:47.865291 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Apr 18 15:39:48.268094 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00455: Apache/2.4.57 (Win64) PHP/8.2.5 configured -- resuming normal operations
+[Tue Apr 18 15:39:48.268094 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00456: Apache Lounge VS17 Server built: Apr  3 2023 11:28:13
+[Tue Apr 18 15:39:48.268094 2023] [core:notice] [pid 556768:tid 396] AH00094: Command line: 'H:\\Apache24\\bin\\httpd.exe -d H:/Apache24'
+[Tue Apr 18 15:39:48.286249 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00418: Parent: Created child process 569412
+[Tue Apr 18 15:39:49.031365 2023] [mpm_winnt:notice] [pid 569412:tid 396] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 18 15:39:49.993745 2023] [mpm_winnt:notice] [pid 567568:tid 396] AH00364: Child: All worker threads have exited.
+[Tue Apr 18 15:39:53.473417 2023] [core:alert] [pid 569412:tid 1144] [client 127.0.0.1:56064] H:/localhost/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Apr 18 15:42:36.902360 2023] [core:alert] [pid 569412:tid 1140] [client 127.0.0.1:56137] H:/localhost/.htaccess: Invalid command 'RewriteCond', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Apr 18 15:47:23.216074 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Apr 18 15:47:24.121996 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00455: Apache/2.4.57 (Win64) PHP/8.2.5 configured -- resuming normal operations
+[Tue Apr 18 15:47:24.121996 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00456: Apache Lounge VS17 Server built: Apr  3 2023 11:28:13
+[Tue Apr 18 15:47:24.121996 2023] [core:notice] [pid 556768:tid 396] AH00094: Command line: 'H:\\Apache24\\bin\\httpd.exe -d H:/Apache24'
+[Tue Apr 18 15:47:24.202469 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00418: Parent: Created child process 569248
+[Tue Apr 18 15:47:25.297698 2023] [mpm_winnt:notice] [pid 569412:tid 396] AH00364: Child: All worker threads have exited.
+[Tue Apr 18 15:47:25.543613 2023] [mpm_winnt:notice] [pid 569248:tid 396] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 18 15:51:57.376399 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Apr 18 15:51:57.466229 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00455: Apache/2.4.57 (Win64) PHP/8.2.5 configured -- resuming normal operations
+[Tue Apr 18 15:51:57.466229 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00456: Apache Lounge VS17 Server built: Apr  3 2023 11:28:13
+[Tue Apr 18 15:51:57.466229 2023] [core:notice] [pid 556768:tid 396] AH00094: Command line: 'H:\\Apache24\\bin\\httpd.exe -d H:/Apache24'
+[Tue Apr 18 15:51:57.591295 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00418: Parent: Created child process 570952
+[Tue Apr 18 15:51:58.594418 2023] [mpm_winnt:notice] [pid 570952:tid 396] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 18 15:51:59.615357 2023] [mpm_winnt:notice] [pid 569248:tid 396] AH00364: Child: All worker threads have exited.
+[Tue Apr 18 15:59:26.743110 2023] [php:error] [pid 570952:tid 1144] [client 127.0.0.1:56448] PHP Parse error:  syntax error, unexpected token "elseif", expecting end of file in H:\\localhost\\Index.php on line 8
+[Tue Apr 18 21:37:04.951817 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Apr 18 21:37:06.981862 2023] [mpm_winnt:notice] [pid 570952:tid 396] AH00364: Child: All worker threads have exited.
+[Tue Apr 18 21:37:07.273892 2023] [mpm_winnt:notice] [pid 556768:tid 396] AH00430: Parent: Child process 570952 exited successfully.
+[Wed Apr 19 01:54:40.263204 2023] [mpm_winnt:notice] [pid 3100:tid 380] AH00455: Apache/2.4.57 (Win64) PHP/8.2.5 configured -- resuming normal operations
+[Wed Apr 19 01:54:40.273342 2023] [mpm_winnt:notice] [pid 3100:tid 380] AH00456: Apache Lounge VS17 Server built: Apr  3 2023 11:28:13
+[Wed Apr 19 01:54:40.273342 2023] [core:notice] [pid 3100:tid 380] AH00094: Command line: 'H:\\Apache24\\bin\\httpd.exe -d H:/Apache24'
+[Wed Apr 19 01:54:40.273342 2023] [mpm_winnt:notice] [pid 3100:tid 380] AH00418: Parent: Created child process 4636
+[Wed Apr 19 01:54:41.872164 2023] [mpm_winnt:notice] [pid 4636:tid 396] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 19 09:07:15.169245 2023] [mpm_winnt:notice] [pid 3100:tid 380] AH00424: Parent: Received restart signal -- Restarting the server.
+[Wed Apr 19 09:07:17.197103 2023] [mpm_winnt:notice] [pid 4636:tid 396] AH00364: Child: All worker threads have exited.
+[Wed Apr 19 09:07:30.873759 2023] [mpm_winnt:notice] [pid 3100:tid 380] AH00455: Apache/2.4.57 (Win64) PHP/8.2.5 configured -- resuming normal operations
+[Wed Apr 19 09:07:30.873759 2023] [mpm_winnt:notice] [pid 3100:tid 380] AH00456: Apache Lounge VS17 Server built: Apr  3 2023 11:28:13
+[Wed Apr 19 09:07:30.873759 2023] [core:notice] [pid 3100:tid 380] AH00094: Command line: 'H:\\Apache24\\bin\\httpd.exe -d H:/Apache24'
+[Wed Apr 19 09:07:30.904999 2023] [mpm_winnt:notice] [pid 3100:tid 380] AH00418: Parent: Created child process 22548
