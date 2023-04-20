@@ -1,11 +1,11 @@
 <?php
     $host = "localhost";
     $dbusername = "root";
-    $password = "root";
+    $dbpassword = "root";
     $db = "mydb";
 
     try {
-        $connection = new mysqli($host, $dbusername, $password);
+        $connection = new mysqli($host, $dbusername, $dbpassword);
     }
     catch(Error $ex) {
         echo "ошибка подключения к бд.";

@@ -1,8 +1,12 @@
-<?php session_start()?>
+<?php 
+  session_start();
+  require_once "paths.php"
+?>
 <head>
   <meta charset="utf-8" />
   <title>Профиль</title>
-  <link rel="stylesheet" href="www/style.css" />
+  <link rel="stylesheet" href="<?php echo $rmBrowserStyle?>" />
+  <link rel="stylesheet" href="<?php echo $mainStylePath?>" />
 </head>
 <body>
     <header>
@@ -14,6 +18,7 @@
         if (isset($_SESSION["email"])) echo "Email: " . $_SESSION["email"] . "<br>";
         if (isset($_SESSION["phonenumber"])) echo "NamPhone number: " . $_SESSION["phonenumber"] . "<br>";
       ?>
+      <a href="/exit.php">Выйти</a>
       <form action="/changeprofile.php" method="post">
         <input type="text" name="username" placeholder="Новое имя"/>
         <input type="submit" value="Изменить имя"/>
@@ -32,5 +37,6 @@
       </form>
     </main>
     <footer></footer>
+
 </body>
 </html>

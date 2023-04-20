@@ -12,8 +12,8 @@
             <input type="text" name="username" placeholder="Имя"/>
             <input type="text" name="email" placeholder="Email"/>
             <input type="text" name="phoneNumber" placeholder="Телефон"/>
-            <input type="text" name="password" placeholder="Пароль"/>
-            <input type="text" name="passwordAsh"placeholder="Повторите пароль"/>
+            <input type="password" name="password" placeholder="Пароль"/>
+            <input type="password" name="passwordAsh"placeholder="Повторите пароль"/>
             <input type="submit" value="Зарегистрироваться"/>
         </form>
     </main>
