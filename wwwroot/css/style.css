@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Ogelios21";
-    src: url("/www/fonts/Ogelios21/Ogelios21.otf") format("opentype");
+    src: url("/wwwroot/fonts/Ogelios21/Ogelios21.otf") format("opentype");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: "SheruPro";
-    src: url("/www/fonts/SheruPro/SheruPro.otf") format("opentype");
+    src: url("/wwwroot/fonts/SheruPro/SheruPro.otf") format("opentype");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
     font-family: "GardeniaDecor";
-    src: url("/www/fonts/GardeniaDecor/Gardenia-Decor.ttf") format("truetype");
+    src: url("/wwwroot/fonts/GardeniaDecor/Gardenia-Decor.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -24,7 +24,7 @@
 
 @font-face {
     font-family: "GangOfThree";
-    src: url("/www/fonts/GangOfThree/Gang-of-Three.ttf") format("truetype");
+    src: url("/wwwroot/fonts/GangOfThree/Gang-of-Three.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
